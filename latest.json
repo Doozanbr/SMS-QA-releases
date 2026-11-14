@@ -1,1 +1,6 @@
-{"version":"1.9.13","url":"https://github.com/Doozanbr/SMS-QA-releases/releases/download/v1.9.13/SMS-QA-1.9.13.zip","notes":"SMS QA 1.9.13"}
+{
+  "version": "1.9.14",
+  "url": "https://github.com/Doozanbr/SMS-QA-releases/releases/download/v1.9.14/SMS-QA-1.9.14.zip",
+  "sha256": "336a1ddbede86cc3bfa9051808767c6dd489e8cbb5bc5b0bd745acb9cb3b693d",
+  "notes": "SMS QA 1.9.14"
+}
